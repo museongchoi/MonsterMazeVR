@@ -16,7 +16,7 @@ VR 콘텐츠 프로젝트: 몬스터를 피해 무한한 미로를 탈출하는 
 | **팀 규모**       | 팀 프로젝트 총 2명 / 개발자 : 최무성, 박교녕 |
 | **개발 환경**       | UnrealEngine 5, C++, GitHub, Oculus SDK |
 | **플랫폼**          | PC VR                                 |
-| **YouTube 데모 영상** | (작성 예정)                        |
+| **YouTube 데모 영상** | https://www.youtube.com/watch?v=irVubrQ3siE|
 
 <br>
 
